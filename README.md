@@ -1,4 +1,4 @@
-# Reportes Escolares
+# Reportes Escolares (Prototipo)
 Sistema creado en CodeIgniter para reportes por parte de alumnos en escuelas publicas, esto se saco cuando hubo muchos casos
 de bullying en las escuelas, este proyecto cuenta tambien con una aplicacion Android nativa para que los alumnos puedan reportar.
 
